@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8523604362708bd4783b5d4907543b6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - altin: {fileID: 5318603274686010729, guid: ee95454ae204ffc42a9c7c821052a0b8, type: 3}
+  - karpuz: {fileID: 1761580551320514342, guid: f1334e4a70a4cbd42ae832108e3b5f3c, type: 3}
+  - engelzipla: {fileID: 4426900980278731773, guid: 0f897a56875eb124f8e09a72031db589, type: 3}
+  - Controller: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
